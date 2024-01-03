@@ -7,7 +7,7 @@
 }
 
 body{
-    /* background-color: rgba(17, 45, 121, 0.881); */
+    background-color: rgba(17, 45, 121, 0.881);
 }
 .nav{
     height: 4rem;
@@ -26,7 +26,7 @@ body{
     flex-wrap: wrap;
     padding-top: 3rem;
     padding-bottom: 3rem;
-    background-color: rgba(17, 45, 121, 0.881);
+    /* background-color: rgba(17, 45, 121, 0.881); */
     gap: 20px;
 }
 
